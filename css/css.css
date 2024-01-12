@@ -1,0 +1,66 @@
+body { 
+font-size: 13px;
+font-family: "Tahoma", "Arial", "Verdana";
+color: #333333;
+margin: 0px;
+padding: 0px;
+background-color: #000000;
+line-height: 16px;
+}
+img { 
+border: none;
+}
+a.photo_pr { 
+opacity: 0.3;
+}
+a.photo_pr:hover { 
+opacity: 1;
+}
+a.title { 
+opacity: 1;
+}
+a.title:hover { 
+opacity: 0.6;
+}
+a:link { 
+color: #ffffff;
+text-decoration: underline;
+}
+a:visited { 
+color: #ffffff;
+}
+a:hover { 
+color: #636363;
+text-decoration: none;
+}
+a:active { 
+color: #636363;
+}
+#contacts { 
+color: #aaaaaa;
+position: absolute;
+top: 13%;
+left: 13%;
+}
+#resume { 
+position: relative;
+top: 33px;
+left: 33px;
+width: 900px;
+background-color: #ebebeb;
+color: #000000;
+padding: 13px;
+margin-bottom: 63px;
+}
+#resume a { 
+color: #000000;
+text-decoration: underline;
+}
+h1 { 
+font-size: 18px;
+font-family: "Tahoma", "Arial", "Verdana";
+}
+h2 { 
+font-size: 16px;
+font-family: "Tahoma", "Arial", "Verdana";
+}
